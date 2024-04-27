@@ -30,13 +30,9 @@ To maintain the integrity and originality of our content, we have established th
 
 By following these rules, you help us create a valuable and trustworthy resource for all Minecraft server enthusiasts. We appreciate your cooperation and look forward to your unique contributions!
 
-## Code of Conduct
-
-By participating in this repository, you agree to our Code of Conduct. We strive for a welcoming and respectful community, so please be considerate and supportive of your fellow contributors.
-
 ## License
 
-[Specify the license here]
+GNU GENERAL PUBLIC LICENSE
 
 ## Additional Information
 
